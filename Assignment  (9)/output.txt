@@ -1,0 +1,2 @@
+Copy Alternative Lines to Another File
+copies only alternative lines to another file `file2`. 
